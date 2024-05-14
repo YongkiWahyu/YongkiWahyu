@@ -1,9 +1,9 @@
 - 👋 Hi, My name is Yongki Wahyu Prabowo
 - 👀 I’m interested all about IT, especially in Networking and Programming
 - 🏢 I’m currently working at Telecommunication company as Network Operation Center
-- 📫 How to reach me
-🔗LinkedIn : www.linkedin.com/in/yongkiwahyu
-📧 Email : yongkiwahyu254@gmail.com
+- 📫 How to reach me :
+- 🔗LinkedIn : www.linkedin.com/in/yongkiwahyu
+- 📧 Email : yongkiwahyu254@gmail.com
 
 
 <!---
